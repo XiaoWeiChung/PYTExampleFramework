@@ -1,0 +1,16 @@
+PODS:
+  - PYTExampleFramework (0.1.0)
+
+DEPENDENCIES:
+  - PYTExampleFramework (from `../`)
+
+EXTERNAL SOURCES:
+  PYTExampleFramework:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PYTExampleFramework: 8896a96ea276c1dd8dc03467fbb01ec80151e509
+
+PODFILE CHECKSUM: a09cdfb538e1dd69b3c705c912ec7f6de567eab9
+
+COCOAPODS: 1.10.1

@@ -1,0 +1,6 @@
+framework module Pods_PYTExampleFramework_Example {
+  umbrella header "Pods-PYTExampleFramework_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

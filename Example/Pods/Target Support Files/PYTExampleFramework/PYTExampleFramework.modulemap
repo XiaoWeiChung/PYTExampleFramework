@@ -1,0 +1,6 @@
+framework module PYTExampleFramework {
+  umbrella header "PYTExampleFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}
