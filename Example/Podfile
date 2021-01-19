@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'PYTExampleFramework_Example' do
+  pod 'PYTExampleFramework', :path => '../'
+
+  target 'PYTExampleFramework_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
